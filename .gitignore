@@ -1,0 +1,10 @@
+exportado/
+exportado2/
+exportado3/
+serverB2B/
+planilha.xlsx
+*.xlsx
+
+*/exportado/
+*/*.xlsx
+*/*.txt
